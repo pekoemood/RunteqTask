@@ -1,4 +1,4 @@
-[![Image from Gyazo](https://i.gyazo.com/0ea104ab84bae4a38b88e5006db25b7f.png)](https://gyazo.com/0ea104ab84bae4a38b88e5006db25b7f)
+[![Image from Gyazo](https://i.gyazo.com/a7af37187548d7ede663ad07c50ea6cd.png)](https://gyazo.com/a7af37187548d7ede663ad07c50ea6cd)
 
 ## サービス名
 VegeGuide
