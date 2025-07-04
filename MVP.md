@@ -7,7 +7,7 @@ MVPでは、「旬・安価・栄養価の高い野菜」を起点に、時短�
 VegeGuide（ベジガイド）
 
 **サービスURL：**  
-https://vegeguidefrontend.vercel.app/
+https://vegeguide.com/
 
 ---
 
